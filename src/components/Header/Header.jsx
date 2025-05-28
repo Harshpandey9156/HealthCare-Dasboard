@@ -5,8 +5,8 @@ import { FaBell, FaPlus, FaSearch } from 'react-icons/fa';
 // Initial mock users
 const initialUsers = [
   { name: 'Dr. John Doe', avatar: '/src/assets/default-avatar-profile-icon-transparent-600nw-2534623311.webp' },
-  { name: 'Dr. Sarah Smith', avatar: '/avatar2.png' },
-  { name: 'Dr. Ravi Kumar', avatar: '/avatar3.png' },
+  { name: 'Dr. Sarah Smith', avatar: '/src/assets/default-avatar-profile-icon-transparent-600nw-2534623311.webp' },
+  { name: 'Dr. Ravi Kumar', avatar: '/src/assets/default-avatar-profile-icon-transparent-600nw-2534623311.webp' },
 ];
 
 const Header = () => {
