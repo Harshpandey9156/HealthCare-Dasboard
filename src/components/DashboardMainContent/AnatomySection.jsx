@@ -1,6 +1,6 @@
 import React from 'react';
 import './AnatomySection.css';
-import anatomyImage from '/src/assets/react.svg'; 
+import anatomyImage from '/src/assets/download.jpeg'; 
 
 const AnatomySection = () => {
   return (
