@@ -1,6 +1,6 @@
 import React from 'react';
 import './AnatomySection.css';
-import anatomyImage from '/home/harsh-pandey/healthcare-dashboard/src/assets/react.svg'; 
+import anatomyImage from '/src/assets/react.svg'; 
 
 const AnatomySection = () => {
   return (
